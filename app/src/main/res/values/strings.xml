@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CS991 individual project</string>
+    <string name="title">Stack - Array</string>
+    <string name="ErrorDisplay">Error - Array full</string>
+    <string name="pop">pop</string>
+    <string name="push">push</string>
+    <string name="clear">clear</string>
+    <string name="hint">Enter value here</string>
+    <string name="topText">Top: </string>
+    <string name="topDisplay">null</string>
+    <string name="isEmptyText">isEmpty: </string>
+    <string name="isEmptyTrue">true</string>
+    <string name="isEmptyFalse">false</string>
+    <string name="sizeText">Size: </string>
+    <string name="sizeDisplay">0</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="popText">Popped value: </string>
+    <string name="hint"
+
+
+
+</resources>
